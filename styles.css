@@ -1,0 +1,41 @@
+#header {
+    text-align: center;
+    font-size: 72px;
+    font-family: 'Arial', sans-serif;
+    color: red;
+    background-color: black;
+}
+
+#list {
+    text-align: center;
+    font-size: 36px;
+    font-family: 'Times New Roman', sans-serif;
+    color: blue;
+    background-color: aquamarine;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
+
+.t-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+#tamago-header {
+    text-align: center;
+    font-size: 72px;
+}
+
+#tamago-desc {
+    text-align: center;
+    font-size: 48px;
+}
+
+* {
+    background-color: cadetblue;
+}
